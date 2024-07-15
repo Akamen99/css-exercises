@@ -1,0 +1,16 @@
+.alert-text,
+.bigger-alert,
+.alert-text-copy {
+    background-color: rgb(211, 0, 46);
+    font-family:Verdana, DejaVu-sans, sans-serif;
+}
+#big-text{
+    color: blue;
+    font-size: 36px;
+
+}
+#bold-text{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
